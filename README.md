@@ -129,4 +129,8 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [scrala](https://github.com/gaocegege/scrala) - Scala crawler(spider) framework, inspired by scrapy.
 * [ferrit](https://github.com/reggoodwin/ferrit) - Ferrit is a web crawler service written in Scala using Akka, Spray and Cassandra.
 
+<<<<<<< HEAD
 revise by mashuai.
+=======
+revise by mashuai in other branch
+>>>>>>> release/preparation
